@@ -83,7 +83,7 @@ export const StockList = () => {
               <th scope="row">{stockData.symbol}</th>
               <td>{stockData.data.c}</td>
               <td className={`text-${changeColor(stockData.data.d)}`}>{stockData.data.d} {renderIcon(stockData.data.d)}</td>
-              <td className={`text-${changeColor(stockData.data.d)}`}>{stockData.data.dp} {renderIcon(stockData.data.d)} </td>
+              <td className={`text-${changeColor(stockData.data.dp)}`}>{stockData.data.dp} {renderIcon(stockData.data.dp)} </td>
               <td>{stockData.data.h}</td>
               <td>{stockData.data.l}</td>
               <td>{stockData.data.o}</td>
