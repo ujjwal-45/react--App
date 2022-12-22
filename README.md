@@ -1,6 +1,6 @@
 ## Running React on Repl.it
 
-# check out the website here https://react-app.ujjwal45.repl.co/
+ check out the website here https://react-app.ujjwal45.repl.co/
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
