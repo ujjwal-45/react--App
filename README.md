@@ -4,5 +4,5 @@
 
 ## Build using html , css , React(Javascript) and some Bootstrap classes
 
-## Can add or delete a stock into your watchlist 
-## Get detailed chart on clicking the stock's name 
+## Get real time market data and company fundamentals using finnhub API
+## Track each stock price movement from 24hrs to one year using Apexcharts
