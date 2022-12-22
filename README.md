@@ -8,5 +8,5 @@
 
 ## Build using html , css , React(Javascript) and some Bootstrap classes
 
-## Get real time market data and company fundamentals using finnhub API
+## Get real time market data and company fundamentals using Finnhub API
 ## Track each stock price movement from 24hrs to one year using Apexcharts
